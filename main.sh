@@ -6,7 +6,7 @@
 #!/bin/bash
 echo "Enter directory name"
 read newdir
-mkdir -p htg/{articles,images,note,done}
+mkdir -p main/{articles,images,note,done}
 
 
 # Create a simple directory with a name.
